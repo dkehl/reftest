@@ -1,1 +1,1 @@
-Browser integration
+Player AND Browser integration
